@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "workrn",
+    "slug": "workrn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "workrn"
+}
