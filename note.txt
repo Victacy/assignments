@@ -1,0 +1,11 @@
+related props:onPress,onLoad,onLoadStart,onLoadEnd,onError etc
+ScrollView
+Touchable highlight- if you want an image to respond to text
+
+
+// import { RadioButton } from 'react-native-paper';
+{/* <RadioButton label="Male" value="Male" status={checked === "Male" ? 'checked':'unchecked'}  onPress={() => setChecked("Male")} />    
+            <RadioButton label="female" value="Female" status={checked === "Female" ? 'checked':'unchecked'}  onPress={() => setChecked("Female")} />   */}
+
+
+install react native screen & safeareaview
